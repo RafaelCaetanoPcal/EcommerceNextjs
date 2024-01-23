@@ -27,7 +27,7 @@ const NavBar = ()=> {
                 "
                 >
                 <Link href="/" className={`${redressed.className} 
-                font-bold text-2x1`}>
+                font-bold text-2xl`}>
                 E-Shop
                 </Link>
                 <div className="hidden md:block">Search</div>
