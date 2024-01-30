@@ -12,7 +12,7 @@ interface IPrams {
 const Product  = ({params} : { params: IPrams}) => {
    console.log('params', params )
   
-    product
+    
   return (
     <div className="p-8">
         <Container>
